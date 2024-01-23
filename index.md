@@ -1,9 +1,12 @@
----
-layout: default
----
-
 # Victor A. Camarena
+@vcamarena22
 _Ingeniero Mecatrónico Agrícola_ por la **Universidad Autónoma Chapingo**
+
+## Sobre mi
+
+Mi nombre es Victor Adrian Camarena Robles, y soy Ingeniero Mecatrónico con especialidad en Agricultura.
+
+Desarrollador, gamer, amigo de los animales. Entusiasta del software libre y entornos GNU/Linux desde 2009. Me interesa mezclar mis dos pasiones de toda la vida, el campo y la tecnología.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
