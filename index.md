@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Victor A. Camarena
+_Ingeniero Mecatrónico Agrícola_ por la **Universidad Autónoma Chapingo**
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
